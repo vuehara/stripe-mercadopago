@@ -1,7 +1,6 @@
 # Accept a Payment
 
-Build a simple checkout form to collect payment details. Included are some basic
-build and run scripts you can use to start up the application.
+Simple checkout with Stripe and Mercado form in one time
 
 ## Running the sample
 
