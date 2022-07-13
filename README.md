@@ -1,4 +1,4 @@
-# Accept a Payment
+# Stripe and Mercado Pago Checkout
 
 Simple checkout with Stripe and Mercado form in one time
 
