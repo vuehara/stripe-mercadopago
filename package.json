@@ -6,10 +6,17 @@
   "scripts": {
     "start": "node server.js"
   },
+   "keywords": [
+    "example",
+    "heroku"
+  ],
   "author": "stripe-samples",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
     "stripe": "^9.0.0"
+  }
+   "engines": {
+    "node": "16.15.1"
   }
 }
