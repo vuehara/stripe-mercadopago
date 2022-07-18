@@ -10,7 +10,7 @@
     "example",
     "heroku"
   ],
-  "homepage":"https://html-node-stripe.herokuapp.com/",
+  
   "author": "stripe-samples",
   "license": "ISC",
   "dependencies": {
