@@ -15,7 +15,7 @@ const calculateOrderAmount = (items) => {
   return 1400;
 };
 
-app.get("/create-payment-intent", async (req, res) => {
+app.post("/create-payment-intent", async (req, res) => {
   const { items } = req.body;
 
   // Create a PaymentIntent with the order amount and currency
